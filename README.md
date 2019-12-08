@@ -10,7 +10,7 @@
   <td>1</td>
   <td>#</td>
   <td></td>
-  <td><font color=red>3</font>*(7+2)#</td>
+  <td>**3***(7+2)#</td>
   <td>push(OPND,'3')</td>
 </tr>
 <tr>
