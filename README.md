@@ -1,6 +1,6 @@
 # Stack-Calculator
  A stack based WinForm Calculator.
-<table border>
+<table border width="80px">
 <th>ID</th>
 <th>OPTR</th>
 <th>OPND</th>
