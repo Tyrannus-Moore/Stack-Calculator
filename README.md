@@ -7,8 +7,11 @@
 <th>Ready to input</th>
 <th>Operation</th>
 <tr>
-<td>row 1, cell 1</td>
-<td>row 1, cell 2</td>
+  <td>1</td>
+  <td>#</td>
+  <td></td>
+  <td><u>3</u>*(7+2)#</td>
+  <td>push(OPND,'3')</td>
 </tr>
 <tr>
 <td>row 2, cell 1</td>
