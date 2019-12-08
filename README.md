@@ -10,7 +10,7 @@
   <td>1</td>
   <td>#</td>
   <td></td>
-  <td><span>3<span style="color:red">*(7+2)#</td>
+  <td><span style="color:red">必填</span>*(7+2)#</td>
   <td>push(OPND,'3')</td>
 </tr>
 <tr>
