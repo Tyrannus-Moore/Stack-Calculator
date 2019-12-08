@@ -1,6 +1,6 @@
 # Stack-Calculator
  A stack based WinForm Calculator.
-<table border="1">
+<table border>
 <tr>
 <td>row 1, cell 1</td>
 <td>row 1, cell 2</td>
