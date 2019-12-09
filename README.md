@@ -1,5 +1,6 @@
 # Stack-Calculator
  A stack based WinForm Calculator.
+ ![image](https://github.com/Tyrannus-Moore/Stack-Calculator/blob/master/Images/Stack-Calculator.gif)
  
 ## Algorithm
  We will use two stacks OPTR(OPeraToRs),OPND(OPeraNDs) for storing operators and operands respectively.   And the table below shows how the calculator works.
