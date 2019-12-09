@@ -3,7 +3,7 @@
  ![image](https://github.com/Tyrannus-Moore/Stack-Calculator/blob/master/Images/Stack-Calculator.gif)
  
 ## Algorithm
- We will use two stacks OPTR(OPeraToRs),OPND(OPeraNDs) for storing operators and operands respectively.   And the table below using a example of of 3*(7+2) to show how the calculator works.
+ We will use two stacks OPTR(OPeraToRs),OPND(OPeraNDs) for storing operators and operands respectively.          And the table below using a example of of 3*(7+2) to show how the calculator works.         
  PS:Star mark is for the application to recognize the start and the end of the arithmetic.
 <table border="0">
   <th>ID</th>
