@@ -1,5 +1,8 @@
 # Stack-Calculator
  A stack based WinForm Calculator.
+ 
+## Algorithm
+ We will use two stacks OPTR(OPeraToRs),OPND(OPeraNDs) for storing operators and operands respectively.   And the table below shows how the calculator works.
 <table border="0">
   <th>ID</th>
   <th>OPTR</th>
